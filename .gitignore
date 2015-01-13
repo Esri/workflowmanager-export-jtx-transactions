@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ExportJTXTransactions/bin/Debug
+/ExportJTXTransactions/obj/x86/Debug
+*.user
