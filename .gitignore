@@ -5,3 +5,4 @@
 /ExportJTXTransactions/bin/Debug
 /ExportJTXTransactions/obj/x86/Debug
 *.user
+*.suo
