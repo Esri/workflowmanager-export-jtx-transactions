@@ -1,13 +1,13 @@
 # workflowmanager-export-jtx-transactions
 
 
-The sample will take the contents of the JTXTransactions table and export it to a file geodatabase that allows users to query and report against it.
+The sample will take the contents of the JTX\_Transactions table and export it to a file geodatabase that allows users to query and report against it.
 
 
 ## Features
 
 
-* Export JTXTransactions table for simplified reporting and querying
+* Export JTX\_Transactions table for simplified reporting and querying
 
 
 ## Instructions
